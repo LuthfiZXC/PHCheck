@@ -10,7 +10,8 @@ Tools Untuk Scan Proxy
 3. Open termux and type:
     • pkg upgrade
     • pkg install python -y
-    • git clone http://
+    • cd /sdcard
+    • git clone https://github.com/LuthfiZXC/PHCheck
     • cd PHCheck
     • pip install -r requirements.txt
     • python main.py
